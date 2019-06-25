@@ -1,6 +1,6 @@
 const testData = [];
 
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 10000; i++) {
   testData.push({ name: `tester - ${i}` });
 }
 
